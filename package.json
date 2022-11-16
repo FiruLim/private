@@ -1,12 +1,9 @@
 {
- "name": "Mark-BOT",
- "version": "3.3.0",
+ "name": "-",
  "description": "Whatsapp Using Lib Baileys Multi Device",
+ "version": "1.0.0",
  "main": "index.js",
  "type": "commonjs",
-"engines": {
- "node": "17.1.0"
-  }, 
  "scripts": {
   "start": "node index"
  },
@@ -21,14 +18,14 @@
   "bot-md",
   "multi-device"
  ],
- "author": "gaaraofc",
+ "author": "-",
  "license": "MIT",
  "dependencies": {
-  "@adiwajshing/baileys": "^4.1.0",
+  "@adiwajshing/baileys": "^4.0.0",
   "@adiwajshing/keyed-db": "^0.2.4",
   "@bochilteam/scraper": "^3.0.0",
   "@develoka/angka-terbilang-js": "^1.4.2",
-  "awesome-phonenumber": "^2.64.0",
+  "awesome-phonenumber": "^2.70.0",
   "axios": "^0.24.0",
   "amethyste-api": "^1.1.5",
   "chalk": "^4.1.2",
@@ -87,7 +84,7 @@
   "util": "^0.12.4",
   "unofficial-carbon-now": "^1.0.6",
   "yargs": "^17.2.1",
-  "xfarr-api": "^1.0.2",
+  "xfarr-api": "^2.0.0",
   "ytsearch": "^2.10.2"
  }
 }
