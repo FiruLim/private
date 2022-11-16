@@ -1,9 +1,12 @@
 {
  "name": "Gaara",
  "description": "Whatsapp Using Lib Baileys Multi Device",
- "version": "1.2.3",
+ "version": "3.3.0",
  "main": "index.js",
  "type": "commonjs",
+"engines": {
+ "node": "17.1.0"
+},
  "scripts": {
   "start": "node index"
  },
