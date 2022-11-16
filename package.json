@@ -2,6 +2,8 @@
  "name": "-",
  "description": "Whatsapp Using Lib Baileys Multi Device",
  "version": "1.2.3",
+ "engines": {
+   "node": "18.x",
  "main": "index.js",
  "type": "commonjs",
  "scripts": {
