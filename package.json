@@ -1,12 +1,12 @@
 {
- "name": "Gaara",
- "description": "Whatsapp Using Lib Baileys Multi Device",
+ "name": "Mark-BOT",
  "version": "3.3.0",
+ "description": "Whatsapp Using Lib Baileys Multi Device",
  "main": "index.js",
  "type": "commonjs",
 "engines": {
  "node": "17.1.0"
-},
+  }, 
  "scripts": {
   "start": "node index"
  },
